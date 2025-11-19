@@ -1,0 +1,347 @@
+[
+  {
+    "codigo": "110002",
+    "nome": "FONDUE DE CHOCOLATE CRUZILIA 250G 10UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110003",
+    "nome": "FONDUE DE QUEIJO CRUZILIA CART.400G 08UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110005",
+    "nome": "QJ A LENDA 17KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110006",
+    "nome": "QJ A LENDA 4KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110007",
+    "nome": "QJ A LENDA FRACAO 180G 16UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110008",
+    "nome": "QJ AZUL DE MINAS 3,0KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110009",
+    "nome": "QJ AZUL DE MINAS FRACAO 160G 20UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110010",
+    "nome": "QJ BRIE FEITO A MAO 0,115 GR 10UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110012",
+    "nome": "QJ BRIE FORMA 1,0KG 02UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110015",
+    "nome": "QJ CACCIO CAVALO FRESCO 420G 09UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110020",
+    "nome": "QJ COALHO BARRA 300G 24UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110021",
+    "nome": "QJ COALHO ESPETO 330G 20UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110024",
+    "nome": "QJ COALHO PARA RALAR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110027",
+    "nome": "QJ EMMENTAL 11,0KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110029",
+    "nome": "QJ EMMENTAL 6,0KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110034",
+    "nome": "QJ ESTEPE 7,0KG 02UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110037",
+    "nome": "QJ MATURADO COM MOFO AZUL 3,0KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110038",
+    "nome": "QJ MATURADO COM MOFO AZUL FRACAO 160G 20UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110041",
+    "nome": "QJ GOUDA 3,0KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110044",
+    "nome": "QJ GOUDA FRACAO 180G 16UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110050",
+    "nome": "QJ GRUYERE 11,9KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110052",
+    "nome": "QJ GRUYERE 6,0KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110065",
+    "nome": "QJ MINAS PADRAO FRACAO 500G 12UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110079",
+    "nome": "QJ PARMESAO 6,0KG 02UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110081",
+    "nome": "QJ PARMESAO FRACAO 180G 16UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110082",
+    "nome": "QJ PARMESAO PARA RALAR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110090",
+    "nome": "QJ PROVOLONE 7,0KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110093",
+    "nome": "QJ PROVOLONE FRACAO 300G 12UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110096",
+    "nome": "QJ PROVOLONE PALITO 350G 10UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110103",
+    "nome": "QJ SANTO CASAMENTEIRO 2,0KG 01UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110104",
+    "nome": "QJ SANTO CASAMENTEIRO FRACAO 180G 10UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110111",
+    "nome": "QJ EMMENTAL FRACAO 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110112",
+    "nome": "QJ A LENDA FRACAO 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110113",
+    "nome": "QJ GRUYERE FRACAO 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110114",
+    "nome": "QJ GOUDA FRACAO 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110115",
+    "nome": "QJ PRATO ESFERICO FRACAO 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110116",
+    "nome": "QJ ESTEPE FRACAO 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110117",
+    "nome": "QJ PARMESAO FRACAO 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110130",
+    "nome": "QJ MINAS PADRAO FRACAO HORTIFRUTI 500G 12UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110138",
+    "nome": "QJ VERSOS DE MINAS FRACAO 160G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110149",
+    "nome": "QUEIJO BRIE FEITO A MAO 0,115 GR 10UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110159",
+    "nome": "QUEIJO A LENDA 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110160",
+    "nome": "QJ SERRA DA MANTIQUEIRA 200G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110162",
+    "nome": "QUEIJO CAMEMBERT BABY 0,115 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110163",
+    "nome": "QUEIJO CAMEMBERT FEITO A MAO 0,240 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110166",
+    "nome": "MOLHO LÁCTEO DE QUATRO QUEIJOS 220G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110167",
+    "nome": "MOLHO LÁCTEO DE QUEIJO AZUL 220G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110224",
+    "nome": "QUEIJO MINAS MEIA CURA 500G 12UN",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110234",
+    "nome": "QJ MATURADO COM MOFO AZUL PARA CREME",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110236",
+    "nome": "QUEIJO SERRA DA MANTIQUEIRA",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110241",
+    "nome": "FONDUE DE QUEIJO COM AZUL DE MINAS",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110253",
+    "nome": "QJ PROVOLONE DEFUMADO OREGANO 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "110254",
+    "nome": "QJ PROVOLONE DEFUMADO PIMENTA 140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "111201",
+    "nome": "Q. PROC. PROVOLONE PIMENTA FRAÇÃO <0,140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "111202",
+    "nome": "Q. PROC. PROVOLONE OREGANO FRAÇÃO <0,140G",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140009",
+    "nome": "MOZZARELA BUFALA SORO P POTE 150 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140010",
+    "nome": "MOZZARELLA BUFALA SORO P ZERO LACTOSE POTE 150 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140020",
+    "nome": "MOZZARELLA DE BUFALA SORO P BALDE 1 KG",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140035",
+    "nome": "MOZZARELLA DE BUFALA BARRA",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140036",
+    "nome": "MOZZARELLA DE BUFALA BARRA MINI",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140037",
+    "nome": "BURRATA BUFALO DOURADO 120 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140038",
+    "nome": "BURRATA BUFALO DOURADO TRUFADA 120 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140039",
+    "nome": "BURRATA BUFALO DOURADO PESTO",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140040",
+    "nome": "BURRATA BUFALO DOURADO AZEITONA",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140053",
+    "nome": "BURRATA DE BUFALA ZERO LACTOSE 120 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140123",
+    "nome": "MOZZARELLA DE BUFALA SORO P POTE 200 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140124",
+    "nome": "MOZZARELLA DE BUFALA SORO M POTE 200 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140194",
+    "nome": "BURRATA BUFALO DOURADO TOMATE SECO 120 GR",
+    "quantidade": "10000"
+  },
+  {
+    "codigo": "140195",
+    "nome": "KIT BURRATA DE BÚFALA TRADICIONAL",
+    "quantidade": "10000"
+  }
+]
